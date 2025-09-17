@@ -1,5 +1,5 @@
 // API base URL - your backend server
-const API_BASE_URL = "http://localhost:3001/api";
+const API_BASE_URL = "https://mini-feedback-board-apgm.vercel.app/api";
 
 // Utility function to handle API requests
 const apiRequest = async (endpoint, options = {}) => {
